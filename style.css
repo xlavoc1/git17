@@ -1,0 +1,14 @@
+div{
+    text-align: center;
+    width: 60vw;
+    margin: 0 auto;
+    }
+    h1{
+        color: blue;
+    }
+    p{
+        font-size: 20px;
+    }
+    span{
+        color: red;
+    }
